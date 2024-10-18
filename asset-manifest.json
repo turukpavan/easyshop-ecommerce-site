@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/easyshop-ecommerce-site/static/css/main.231549db.css",
+    "main.js": "/easyshop-ecommerce-site/static/js/main.fbc4498e.js",
+    "static/js/453.a8bdd88a.chunk.js": "/easyshop-ecommerce-site/static/js/453.a8bdd88a.chunk.js",
+    "static/media/remixicon.svg?t=1718271040674": "/easyshop-ecommerce-site/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/easyshop-ecommerce-site/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/easyshop-ecommerce-site/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/easyshop-ecommerce-site/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/easyshop-ecommerce-site/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/revicons.eot": "/easyshop-ecommerce-site/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/easyshop-ecommerce-site/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/easyshop-ecommerce-site/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/easyshop-ecommerce-site/index.html",
+    "main.231549db.css.map": "/easyshop-ecommerce-site/static/css/main.231549db.css.map",
+    "main.fbc4498e.js.map": "/easyshop-ecommerce-site/static/js/main.fbc4498e.js.map",
+    "453.a8bdd88a.chunk.js.map": "/easyshop-ecommerce-site/static/js/453.a8bdd88a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231549db.css",
+    "static/js/main.fbc4498e.js"
+  ]
+}
